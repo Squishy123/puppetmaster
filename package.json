@@ -1,0 +1,22 @@
+{
+  "name": "puppetmaster",
+  "version": "1.0.0",
+  "description": "Manages resources for puppeteer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squishy123/puppetmaster.git"
+  },
+  "author": "Squishy123",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Squishy123/puppetmaster/issues"
+  },
+  "homepage": "https://github.com/Squishy123/puppetmaster#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
